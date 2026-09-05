@@ -113,3 +113,7 @@ remains a strong, cheap baseline when compute is limited. Averaged
 Word2Vec embeddings were the weakest of the three, since collapsing a
 review into a single averaged vector discards word order and ordering
 information that the other two approaches preserve.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
